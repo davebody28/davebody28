@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Dawid 👋
 
-<!--
-**davebody28/davebody28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **self-taught junior developer** with hands-on experience in building simple web applications.
 
-Here are some ideas to get you started:
+### 🛠 Tech stack (so far)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently learning
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 🎯 Current focus
+- improving code quality and readability
+- learning good programming practices
+- understanding application logic and data flow
+- working with existing codebases and refactoring them
+
+I learn mainly through practice and experimentation.  
+My goal is to grow into a developer who delivers **maintainable, practical, and well-structured solutions**.
