@@ -9,13 +9,9 @@ I'm a **self-taught junior developer** with hands-on experience in building simp
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)
 
 ### 📚 Currently learning
+![Git](![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### 📊 GitHub Stats
-![Dawid's GitHub stats](https://github-readme-stats.vercel.app/api?username=davebody28&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davebody28&layout=compact&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=davebody28&hide_border=true)
 
 ### 🎯 Current focus
 - improving code quality and readability
@@ -25,6 +21,11 @@ I'm a **self-taught junior developer** with hands-on experience in building simp
 
 I learn mainly through practice and experimentation.  
 My goal is to grow into a developer who delivers **maintainable, practical, and well-structured solutions**.
+
+### 📊 GitHub Stats
+![Dawid's GitHub stats](https://github-readme-stats.vercel.app/api?username=davebody28&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davebody28&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=davebody28&hide_border=true)
 
 <!--
 ### 🚀 Featured Projects
