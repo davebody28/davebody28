@@ -33,7 +33,7 @@ My goal is to grow into a developer who delivers **maintainable, practical, and 
 
 ### 🚀 Featured Projects
 - **Intranet** – selfhosted home intranet (HTML / CSS / PHP / SQL / JS)
-- **Docker** - docker experiment with fullstack
+- **Docker** - experiments with fullstack (UI / UX / DB)
 
 <!--
 ### 🚀 Featured Projects
