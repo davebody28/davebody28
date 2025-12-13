@@ -9,7 +9,7 @@ I'm a **self-taught junior developer** with hands-on experience in building simp
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)
 
 ### 📚 Currently learning
-![Git](![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
