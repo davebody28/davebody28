@@ -10,9 +10,11 @@ I'm a **self-taught junior developer** with hands-on experience in building simp
 
 ### 📚 Currently learning
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### 🗺️ Planned to Learn
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### 🎯 Current focus
 - improving code quality and readability
@@ -46,4 +48,19 @@ My goal is to grow into a developer who delivers **maintainable, practical, and 
 - JavaScript (async, fetch, DOM)
 - Python basics & scripting
 - Git & clean commit history
+
+### 🗺️ Planned to Learn
+- **Advanced JavaScript** – async/await, DOM manipulation, fetch, API integration
+- **Python** – scripting, automation, basic web frameworks (Flask/Django)
+- **Docker** – containers, images, networking
+- **Git & GitHub** – advanced workflows, branching strategies, pull requests
+- **Frontend frameworks** – React / Vue basics
+- **Database management** – optimization, indexing, complex queries
+
+### 🗺️ Planned to Learn
+![JavaScript](https://img.shields.io/badge/JS-FFD700?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 -->
