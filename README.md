@@ -12,6 +12,7 @@ I'm a **self-taught junior developer** with hands-on experience in building simp
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### 🎯 Current focus
 - improving code quality and readability
@@ -24,8 +25,12 @@ My goal is to grow into a developer who delivers **maintainable, practical, and 
 
 ### 📊 GitHub Stats
 ![Dawid's GitHub stats](https://github-readme-stats.vercel.app/api?username=davebody28&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davebody28&layout=compact&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=davebody28&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davebody28&layout=compact&hide_border=true)
+
+### 🚀 Featured Projects
+- **Intranet** – selfhosted home intranet (HTML / CSS / PHP / SQL / JS)
+- **Docker** - docker experiment with fullstack
 
 <!--
 ### 🚀 Featured Projects
@@ -41,5 +46,4 @@ My goal is to grow into a developer who delivers **maintainable, practical, and 
 - JavaScript (async, fetch, DOM)
 - Python basics & scripting
 - Git & clean commit history
-
 -->
