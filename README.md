@@ -7,6 +7,7 @@ I'm a **self-taught junior developer** with hands-on experience in building simp
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-867DB3?style=flat&logo=visual-basic&logoColor=white)
 
 ### 📚 Currently learning
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
