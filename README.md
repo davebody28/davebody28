@@ -16,6 +16,7 @@ I'm a **self-taught junior developer** with hands-on experience in building simp
 ### 🗺️ Planned to Learn
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=flat&logo=font-awesome&logoColor=white)
 
 ### 🎯 Current focus
 - improving code quality and readability
