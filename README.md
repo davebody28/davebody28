@@ -12,6 +12,9 @@ I'm a **self-taught junior developer** with hands-on experience in building simp
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+### 📊 GitHub Stats
+![Dawid's GitHub stats](https://github-readme-stats.vercel.app/api?username=davebody28&show_icons=true&theme=default&hide_border=true)
+
 ### 🎯 Current focus
 - improving code quality and readability
 - learning good programming practices
