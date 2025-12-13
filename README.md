@@ -26,14 +26,20 @@ I'm a **self-taught junior developer** with hands-on experience in building simp
 I learn mainly through practice and experimentation.  
 My goal is to grow into a developer who delivers **maintainable, practical, and well-structured solutions**.
 
+
+### 🔧 Currently working on
+- **Intranet** – selfhosted home intranet (HTML / CSS / PHP / SQL / JS)
+
+
+### 🚀 Featured Projects 
+- **Docker** - experiments with fullstack (UI / UX / DB)
+
 ### 📊 GitHub Stats
 ![Dawid's GitHub stats](https://github-readme-stats.vercel.app/api?username=davebody28&show_icons=true&theme=default&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=davebody28&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davebody28&layout=compact&hide_border=true)
 
-### 🚀 Featured Projects
-- **Intranet** – selfhosted home intranet (HTML / CSS / PHP / SQL / JS)
-- **Docker** - experiments with fullstack (UI / UX / DB)
+
 
 <!--
 ### 🚀 Featured Projects
