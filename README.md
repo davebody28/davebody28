@@ -8,16 +8,18 @@ I'm a **self-taught junior developer** with hands-on experience in building simp
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)
 <br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<br>
 ![VBA](https://img.shields.io/badge/VBA-867DB3?style=flat&logo=visual-basic&logoColor=white)
 
 ### 📚 Currently learning
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🗺️ Planned to Learn
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Awesome-528DD7?style=flat&logo=awesome&logoColor=white)
+
+---
 
 ### 🎯 Current focus
 - improving code quality and readability
@@ -28,8 +30,7 @@ I'm a **self-taught junior developer** with hands-on experience in building simp
 I learn mainly through practice and experimentation.  
 My goal is to grow into a developer who delivers **maintainable, practical, and well-structured solutions**.
 
----
-
+<!--
 ### 🔧 Currently working on
 - **Intranet** – selfhosted home intranet (HTML / CSS / PHP / SQL / JS)
 
@@ -37,7 +38,7 @@ My goal is to grow into a developer who delivers **maintainable, practical, and 
 ### 🚀 Featured Projects 
 - **Docker** - experiments with fullstack (UI / UX / DB)
 
-<!--
+
 ### 📊 GitHub Stats
 ![Dawid's GitHub stats](https://github-readme-stats.vercel.app/api?username=davebody28&show_icons=true&theme=default&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=davebody28&hide_border=true)
