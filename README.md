@@ -18,6 +18,8 @@ I'm a **self-taught junior developer** with hands-on experience in building simp
 
 ### 🗺️ Planned to Learn
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-FF0000?style=flat&logo=angular&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-0077B6?style=flat&logo=typescript&logoColor=black)
 
 ---
 
