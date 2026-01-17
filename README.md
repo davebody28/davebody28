@@ -14,12 +14,16 @@ I'm a **self-taught junior developer** with hands-on experience in building simp
 ![VBA](https://img.shields.io/badge/VBA-867DB3?style=flat&logo=visual-basic&logoColor=white)
 
 ### 📚 Currently learning
+![SEO](https://img.shields.io/badge/SEO-SearchEngineOptimalization-FFA500?style=flat&logo=SEO&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🗺️ Planned to Learn
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-FF0000?style=flat&logo=angular&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0077B6?style=flat&logo=typescript&logoColor=black)
+<br>
+![MachineLearning](https://img.shields.io/badge/ML-MachineLearning-0077B6?style=flat&logo=ML&logoColor=black)
+![BigData](https://img.shields.io/badge/BD-BigData-0077B6?style=flat&logo=BD&logoColor=black)
 
 ---
 
